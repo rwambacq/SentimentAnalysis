@@ -1,0 +1,5 @@
+Train on 124848 samples, validate on 31212 samples
+Epoch 1/100
+ - 681s - loss: 1.0172 - acc: 0.5988 - val_loss: 0.8580 - val_acc: 0.6471
+Epoch 2/100
+ - 672s - loss: 0.8056 - acc: 0.6693 - val_loss: 0.8195 - val_acc: 0.6609
